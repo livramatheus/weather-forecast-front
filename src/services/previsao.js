@@ -1,7 +1,7 @@
 import Axios from "axios";
 
 export function getPrevisao(latitude, longitude) {
-  return Axios.get("https://z8nuo.sse.codesandbox.io/previsao", {
+  return Axios.get(`${process.env.BACK_URL}/previsao`, {
     params: {
       lat: latitude,
       long: longitude
