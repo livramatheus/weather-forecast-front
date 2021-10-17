@@ -70,7 +70,9 @@ Weather Forecast was inspired by the following projects on Figma:
 
 ### 🌐 Live demo
 
-You can check a live demo of this project on CodeSandbox.
+Check out this project running on [Netlify + Heroku](https://livramento-weather.netlify.app/)
+
+Edit this app on CodeSandbox.
 
 [![Edit Weather Forecast (Front)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/weather-forecast-front-465th?fontsize=14&hidenavigation=1&theme=dark)
 
@@ -148,7 +150,9 @@ Você também pode verificar as seções front e back-end de **Weather Forecast*
 
 ### 🌐 Demonstração
 
-Confira o projeto rodando no CodeSandbox.
+Confira este projeto rodando em [Netlify + Heroku](https://livramento-weather.netlify.app/)
+
+Edite este app no CodeSandbox.
 
 [![Edit Weather Forecast (Front)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/weather-forecast-front-465th?fontsize=14&hidenavigation=1&theme=dark)
 
