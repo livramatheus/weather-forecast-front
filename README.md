@@ -23,7 +23,7 @@ ____
 
 This is a **weather forecast** application, that delivers a simple, clean and minimalist layout, projected for desktop and phone screens. This app was built using *React* and *Node*. The current repository/documentation explanate about the **front-end** section of this project, however, you can also check out the [back-end](#-back-end) and [full stack](#-full-stack) repositories.
 
-The main goal with this project was to **release a simple yet complete** weather forecast app. In a way that I couldn't over engineer it or put way too much time on it, I decided to release the application at it's current state. In conclusion, for now I consider the **Weather Forecast** completed, but a more features could be added later on.
+The main goal with this project was to **release a simple yet complete** weather forecast app. In a way that I couldn't over engineer it or put way too much time on it, I decided to release the application at it's current state. In conclusion, for now I consider the **Weather Forecast** completed, but more features could be added later on.
 
 ##  Front-end
 
