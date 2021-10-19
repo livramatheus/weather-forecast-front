@@ -3,8 +3,8 @@ import { useEffect, useState } from "react";
 import TopRow from "./components/TopRow";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Main from "./pages/Main";
-import Detalhe from "./pages/Detalhe";
-import { getPrevisao } from "./services/previsao";
+import Detail from "./pages/Detail";
+import { getForecast } from "./services/forecast";
 
 export default function App() {
   const [geral, setGeral] = useState(null);
@@ -12,7 +12,7 @@ export default function App() {
   const [longitude, setLongitude] = useState(null);
 
   const requesitaDados = () => {
-    getPrevisao(latitude, longitude).then((resposta) => {
+    getForecast(latitude, longitude).then((resposta) => {
       if (resposta.status === 200) {
         setGeral(resposta.data);
       }
@@ -45,8 +45,8 @@ export default function App() {
             <Route exact path="/">
               <Main dados={geral} />
             </Route>
-            <Route path="/detalhe">
-              <Detalhe dados={geral} />
+            <Route path="/detail">
+              <Detail dados={geral} />
             </Route>
           </Switch>
         </div>

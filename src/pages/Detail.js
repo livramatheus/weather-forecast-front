@@ -2,7 +2,7 @@ import ItemId from "../components/ItemId";
 import ItemTabela from "../components/ItemTabela";
 import Skeleton from "react-loading-skeleton";
 
-export default function Detalhe(props) {
+export default function Detail(props) {
   let { dados } = props;
 
   return (
