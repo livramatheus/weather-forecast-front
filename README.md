@@ -148,7 +148,7 @@ ____
 - [Autor](#autor-br)
 <!--te-->
  
->**🤚 🤚 Este repositório é do lado do servidor da Previsão do Tempo, se você estiver interessado no lado do cliente, verifique [este repositório](https://github.com/livramatheus/weather-forecast-front)!**
+>**🤚 🤚 Este repositório é do lado do cliente da Previsão do Tempo, se você estiver interessado no lado do servidor, verifique [este repositório](https://github.com/livramatheus/weather-forecast-back)!**
 
 <h2 id="about-the-project-br">💻 Sobre o projeto</h2>
 
