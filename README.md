@@ -14,6 +14,7 @@
 <!--ts-->
 <ul>
 	<li><a href="#about-the-project">About the project</a></li>
+	<li><a href="#live-demo">Live demo</a></li>
 	<li><a href="#features">Features</a></li>
 	<li><a href="#front-end">Front-end</a></li>
 	<ul>
@@ -27,7 +28,6 @@
 	</ul>
 	<li><a href="#how-to-set-up">How to set up</a></li>
 	<li><a href="#inspirations">Inspirations</a></li>
-	<li><a href="#live-demo">Live demo</a></li>
 	<li><a href="#author">Author</a></li>
 </ul>
 <!--te-->
@@ -40,6 +40,19 @@
 
 <p>This is a <strong>weather forecast</strong> application, that delivers a simple, clean and minimalist layout, projected for desktop and phone screens. This app was built using <em>React</em> and <em>Node</em>.</p>
 <p>The main goal with this project was to <strong>release a simple yet complete</strong> weather forecast app that delivery essential information without transmitting an empty feeling.</p>
+
+<h2 id="live-demo">🌐 Live demo</h2>
+
+<p>Check out this project running on <a href="https://livramento-weather.netlify.app/">Netlify + Heroku</a></p>
+<p>You can also edit and view this project on Code Sand Box:</p>
+
+<h4 id="front-end-">Front-end:</h4>
+
+<p><a href="https://codesandbox.io/s/weather-forecast-front-465th?fontsize=14&amp;hidenavigation=1&amp;theme=dark"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Edit Weather Forecast (Front)"></a></p>
+
+<h4 id="back-end-">Back-end:</h4>
+
+<p><a href="https://codesandbox.io/s/weather-forecast-back-z8nuo?fontsize=14&amp;hidenavigation=1&amp;theme=dark"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Edit Weather Forecast (Back)"></a></p>
 
 <h2 id="features">🔎 Features</h2>
 
@@ -146,19 +159,6 @@
 	<li><a href="https://www.figma.com/file/fXpD0piPYygazRk9mAXQH9/Weather-Forecast-App-(Community">Weather Forecast App</a>)</li>
 </ul>
 
-<h3 id="live-demo">🌐 Live demo</h3>
-
-<p>Check out this project running on <a href="https://livramento-weather.netlify.app/">Netlify + Heroku</a></p>
-<p>You can also edit and view this project on Code Sand Box:</p>
-
-<h4 id="front-end-">Front-end:</h4>
-
-<p><a href="https://codesandbox.io/s/weather-forecast-front-465th?fontsize=14&amp;hidenavigation=1&amp;theme=dark"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Edit Weather Forecast (Front)"></a></p>
-
-<h4 id="back-end-">Back-end:</h4>
-
-<p><a href="https://codesandbox.io/s/weather-forecast-back-z8nuo?fontsize=14&amp;hidenavigation=1&amp;theme=dark"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Edit Weather Forecast (Back)"></a></p>
-
 <h3 id="author">👩‍🦲 Author</h3>
 
 <p>Full stack developed by <strong>Matheus do Livramento</strong>.</p>
@@ -172,6 +172,7 @@
 <!--ts-->
 <ul>
 	<li><a href="#about-the-project-br">Sobre o projeto</a></li>
+	<li><a href="#live-demo-br">Live demo</a></li>
 	<li><a href="#features-br">Funcionalidades</a></li>
 	<li><a href="#front-end-br">Front-end</a></li>
 	<ul>
@@ -185,7 +186,6 @@
 	</ul>
 	<li><a href="#how-to-set-up-br">Como configurar</a></li>
 	<li><a href="#inspirations-br">Inspirações</a></li>
-	<li><a href="#live-demo-br">Live demo</a></li>
 	<li><a href="#autor-br">Autor</a></li>
 </ul>
 <!--te-->
@@ -198,6 +198,19 @@
 
 <p>Trata-se de um aplicativo de <strong>previsão do tempo</strong>, que oferece um layout simples, clean e minimalista, projetado para telas de desktops e dispositivos móveis. Este aplicativo foi desenvolvido usando <em>React</em> e <em>Node</em>.</p>
 <p>O principal objetivo com este projeto era <strong>lançar um aplicativo de previsão do tempo simples, mas completo</strong>, que entregasse informações essenciais sem transmitir uma sensação de vazio.</p>
+
+<h3 id="live-demo-br">🌐 Live demo</h3>
+
+<p>Veja este projeto rodando no <a href="https://livramento-weather.netlify.app/">Netlify + Heroku</a></p>
+<p>Você também pode visualizar e editar este código no Code Sand Box:</p>
+
+<h4 id="front-end-">Front-end:</h4>
+
+<p><a href="https://codesandbox.io/s/weather-forecast-front-465th?fontsize=14&amp;hidenavigation=1&amp;theme=dark"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Edit Weather Forecast (Front)"></a></p>
+
+<h4 id="back-end-">Back-end:</h4>
+
+<p><a href="https://codesandbox.io/s/weather-forecast-back-z8nuo?fontsize=14&amp;hidenavigation=1&amp;theme=dark"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Edit Weather Forecast (Back)"></a></p>
 
 <h2 id="features-br">🔎 Funcionalidades</h2>
 
@@ -303,19 +316,6 @@
 	<li><a href="https://www.figma.com/community/file/955978734883254712">Weather Icons | Flat &amp; Outline</a></li>
 	<li><a href="https://www.figma.com/file/fXpD0piPYygazRk9mAXQH9/Weather-Forecast-App-(Community">Weather Forecast App</a>)</li>
 </ul>
-
-<h3 id="live-demo-br">🌐 Live demo</h3>
-
-<p>Veja este projeto rodando no <a href="https://livramento-weather.netlify.app/">Netlify + Heroku</a></p>
-<p>Você também pode visualizar e editar este código no Code Sand Box:</p>
-
-<h4 id="front-end-">Front-end:</h4>
-
-<p><a href="https://codesandbox.io/s/weather-forecast-front-465th?fontsize=14&amp;hidenavigation=1&amp;theme=dark"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Edit Weather Forecast (Front)"></a></p>
-
-<h4 id="back-end-">Back-end:</h4>
-
-<p><a href="https://codesandbox.io/s/weather-forecast-back-z8nuo?fontsize=14&amp;hidenavigation=1&amp;theme=dark"><img src="https://codesandbox.io/static/img/play-codesandbox.svg" alt="Edit Weather Forecast (Back)"></a></p>
 
 <h3 id="autor-br">👩‍🦲 Author</h3>
 
