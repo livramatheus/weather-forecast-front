@@ -199,7 +199,7 @@
 <p>Trata-se de um aplicativo de <strong>previsão do tempo</strong>, que oferece um layout simples, clean e minimalista, projetado para telas de desktops e dispositivos móveis. Este aplicativo foi desenvolvido usando <em>React</em> e <em>Node</em>.</p>
 <p>O principal objetivo com este projeto era <strong>lançar um aplicativo de previsão do tempo simples, mas completo</strong>, que entregasse informações essenciais sem transmitir uma sensação de vazio.</p>
 
-<h3 id="live-demo-br">🌐 Live demo</h3>
+<h2 id="live-demo-br">🌐 Live demo</h2>
 
 <p>Veja este projeto rodando no <a href="https://livramento-weather.netlify.app/">Netlify + Heroku</a></p>
 <p>Você também pode visualizar e editar este código no Code Sand Box:</p>
