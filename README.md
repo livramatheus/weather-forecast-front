@@ -75,7 +75,7 @@
 
 <div style="display: flex">
     <img alt="Desktop 1" title="#1_d" src="https://github.com/livramatheus/weather-forecast-front/raw/main/src/assets/1_d.png" height="280"/>
-    <img alt="Desktop 2" title="#2_d" src="https://github.com/livramatheus/weather-forecast-front/raw/main/src/assets/1_d.png" height="280"/>
+    <img alt="Desktop 2" title="#2_d" src="https://github.com/livramatheus/weather-forecast-front/raw/main/src/assets/2_d.png" height="280"/>
 </div>
 
 <h3 id="technologies-front">🔨 Technologies</h3>
