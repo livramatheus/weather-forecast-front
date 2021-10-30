@@ -39,7 +39,7 @@
 <h2 id="about-the-project">💻 About the project</h2>
 
 <p>This is a <strong>weather forecast</strong> application, that delivers a simple, clean and minimalist layout, projected for desktop and phone screens. This app was built using <em>React</em> and <em>Node</em>.</p>
-<p>The main goal with this project was to <strong>release a simple yet complete</strong> weather forecast app that delivery essential information without transmitting an empty feeling.</p>
+<p>The main goal with this project was to <strong>release a simple and complete</strong> weather forecast app.</p>
 
 <h2 id="live-demo">🌐 Live demo</h2>
 
@@ -197,7 +197,7 @@
 <h2 id="about-the-project-br">💻 Sobre o projeto</h2>
 
 <p>Trata-se de um aplicativo de <strong>previsão do tempo</strong>, que oferece um layout simples, clean e minimalista, projetado para telas de desktops e dispositivos móveis. Este aplicativo foi desenvolvido usando <em>React</em> e <em>Node</em>.</p>
-<p>O principal objetivo com este projeto era <strong>lançar um aplicativo de previsão do tempo simples, mas completo</strong>, que entregasse informações essenciais sem transmitir uma sensação de vazio.</p>
+<p>O principal objetivo com este projeto era <strong>lançar um aplicativo de previsão do tempo simples e completo</strong>.</p>
 
 <h2 id="live-demo-br">🌐 Live demo</h2>
 
