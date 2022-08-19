@@ -56,7 +56,7 @@
 
 <h2 id="features">🔎 Features</h2>
 
-<p>This application obtains user's current location and returns back to the client his city and district name, current weather conditions, detailed weather forecast for the current date and minimal and maximum temperature for the next days.</p>
+<p>This application obtains user's current location and returns back to the client his city and district name, current weather conditions, detailed weather forecast for the current date and minimal and maximum temperature for the next few days.</p>
 
 <h2 id="front-end">Front-end</h2>
 
@@ -80,7 +80,7 @@
 
 <h3 id="technologies-front">🔨 Technologies</h3>
 
-<p>The following techlogies were used to build Weather Forecast&#39;s front-end:</p>
+<p>The following technologies were used to build Weather Forecast&#39;s front-end:</p>
 
 <ul>
 	<li><a href="https://github.com/axios/axios">Axios</a></li>
@@ -91,11 +91,11 @@
 
 <h2 id="back-end">Back-end</h2>
 
-<p>The back-end consists in a server developed with Express Framework for Node, which listens to request triggered by the the front-end layer of the application.</p>
+<p>The back-end consists in a server developed with Express Framework for Node, which listens to requests triggered by the front-end layer of the application.</p>
 <p>This Node server has a sole endpoint that returns a set of weather data and user's specific location:</p>
 
 <ul>
-	<li><strong>/forecast</strong>: expects two parameters as <em>query string</em>:</li>
+	<li><strong>/forecast</strong>: expects two parameters as a <em>query string</em>:</li>
 	<ul>
 		<li><strong>lat:</strong> user´s latitude</li>
 		<li><strong>long:</strong> user´s longitude</li>
@@ -116,7 +116,7 @@
 
 <h3 id="external-apis">💱 External APIs</h3>
 
-<p>The following third party APIs were used to create Weather Forecast&#39;s API responses:</p>
+<p>The following third-party APIs were used to create Weather Forecast&#39;s API responses:</p>
 
 <ul>
 	<li><a href="https://openweathermap.org/">Open Weather Map</a> for weather data</li>
@@ -125,7 +125,7 @@
 
 <h3 id="technologies-back">🔨 Technologies</h3>
 
-<p>The following techlogies were used to build Weather Forecast server:</p>
+<p>The following technologies were used to build Weather Forecast server:</p>
 
 <ul>
 	<li><a href="https://www.npmjs.com/package/cors">Cors</a></li>
@@ -135,7 +135,7 @@
 
 <h3 id="how-to-set-up">❓ How to set up</h3>
 
-<p>If you wish to fork this project you&#39;ll need to set up the following environment variables:</p>
+<p>If you wish to fork this project, you&#39;ll need to set up the following environment variables:</p>
 
 <h4 id="client-side-">Client-side:</h4>
 
