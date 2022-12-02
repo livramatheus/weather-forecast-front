@@ -43,7 +43,7 @@
 
 <h2 id="live-demo">🌐 Live demo</h2>
 
-<p>Check out this project running on <a href="https://livramento-weather.netlify.app/">Netlify + Heroku</a></p>
+<p>Check out this project running on <a href="https://livramento-weather.netlify.app/">Netlify + Cyclic</a></p>
 <p>You can also edit and view this project on Code Sand Box:</p>
 
 <h4 id="front-end-">Front-end:</h4>
@@ -201,7 +201,7 @@
 
 <h2 id="live-demo-br">🌐 Live demo</h2>
 
-<p>Veja este projeto rodando no <a href="https://livramento-weather.netlify.app/">Netlify + Heroku</a></p>
+<p>Veja este projeto rodando no <a href="https://livramento-weather.netlify.app/">Netlify + Cyclic</a></p>
 <p>Você também pode visualizar e editar este código no Code Sand Box:</p>
 
 <h4 id="front-end-">Front-end:</h4>
